@@ -18,6 +18,7 @@ import org.testng.Assert;
 import commonLibraries.UtilitiesLibrary;
 
 public class Base {
+	//base driver
 	WebDriver driver;
 	private String username;
 	private String password;
